@@ -2,9 +2,9 @@
 
 Highlights
     - Using ASP.NET MVC with Entity framework database.
-    - Login / Logout user
-    - Session management
-    - Create, Read, Update and Delete (CRUD) for MessageBoard and MaillingList
+    - Login / Logout user
+    - Session management
+    - Create, Read, Update and Delete (CRUD) for MessageBoard and MaillingList
 
 
 ![asp home](https://user-images.githubusercontent.com/25110154/37807589-a793c7be-2e1c-11e8-9372-4129686f3804.jpg)
