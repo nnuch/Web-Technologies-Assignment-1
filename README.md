@@ -4,6 +4,7 @@ The Roster Project
   - User Interface Elements /Input Controls
   - Android Programming
   - Android SharedPreferences
+  - Using ASP.NET MVC with Entity framework database.
 
 
 Highlights
