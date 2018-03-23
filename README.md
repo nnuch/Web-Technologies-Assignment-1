@@ -1,22 +1,10 @@
 # Web Technologies-Assignment-1
 
-The Roster Project
-  - User Interface Elements /Input Controls
-  - Android Programming
-  - Android SharedPreferences
-  - Using ASP.NET MVC with Entity framework database.
-
-
 Highlights
-
-    - Using ASP.NET MVC with Entity framework database.
-    
-    - Login / Logout user
-    
-    - Session management
-    
-    - Create, Read, Update and Delete (CRUD) for MessageBoard and MaillingList
-    
+  - Using ASP.NET MVC with Entity framework database.
+  - Login / Logout user
+  - Session management
+  - Create, Read, Update and Delete (CRUD) for MessageBoard and MaillingList
 
 
 ![asp home](https://user-images.githubusercontent.com/25110154/37807589-a793c7be-2e1c-11e8-9372-4129686f3804.jpg)
